@@ -11,29 +11,45 @@ Interaction in dutch.
 | Doei | Bye | very informal |
 | Dag | Hi / Bye |  |
 | Tot ziens | Goodbye |  |
+| Tot straks | See you later |  |
+| Tot morgen | See you tomorrow |  |
+| Tot dan | See you then |  |
+| Goedendag | Good day |  |
 | Goedemorgen | Good morning |  |
 | Goedemiddag | Good afternoon |  |
 | Goedenavond | Good evening |  |
 | Goedenacht | Good night |  |
 
+## Basic interactions
+
+| Dutch | English | Comments |
+| ----- | ------- | -------- |
+| Hoe gaat het? | How are you? | *lit.* How goes it? |
+| Hoe gaat het met jou? | How are you? | *lit.* How goes it with you? |
+| Hoe gaat het met u? | How are you? | formal |
+| Goed. | Good. |  |
+| Niet zo goed. | Not so good. |  |
+| En met jou? | And (with) you? |  |
+
 ## Introducing yourself
 
-| Dutch | English |
-| ----- | ------- |
-| Ik heet [name] | I’m called [name] |
-| Ik ben [name] | I’m [name] |
-| Mijn naam is [name] | My name is [name] |
-| Leuk je te ontmoeten | Nice to meet you |
-| Insgelijks | Likewise |
+| Dutch | English | Comments |
+| ----- | ------- | -------- |
+| Ik heet [name] | I’m called [name] |  |
+| Ik ben [name] | I’m [name] |  |
+| Mijn naam is [name] | My name is [name] |  |
+| Hoe heet je? | What’s your name? | *lit.*  How are you called? |
+| Leuk je te ontmoeten | Nice to meet you |  |
+| Insgelijks | Likewise |  |
 
 ## Getting to know someone
 
 | Dutch | English |
 | ----- | ------- |
-| Hoe gaat het? | How are you? |
 | Waar kom je vandaan? | Where are you from? |
 | Ik kom uit [place] | I come from [place] |
-| En met jou? | And (with) you? |
+| Waar woon je? | Where do you live? |
+| Ik woon in [place] | I live in [place] |
 
 ## Being polite
 
@@ -46,3 +62,4 @@ Interaction in dutch.
 | Dank u wel | Thank you (formal) |
 | Graag gedaan | You’re welcome |
 | Geen dank | Nothing to thank |
+| Het spijt me | I’m sorry |
